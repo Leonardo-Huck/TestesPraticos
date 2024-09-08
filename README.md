@@ -1,4 +1,4 @@
-# Teste Pratico
+# Teste Prático
 
 Arquivos com a resolução do Teste prático
 
