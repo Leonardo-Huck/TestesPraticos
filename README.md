@@ -1,5 +1,6 @@
-# TestesPraticos
-Testes praticos
+# Teste Pratico
+
+Arquivos com a resolução do Teste prático
 
 
 ## Programas necessários para executar
